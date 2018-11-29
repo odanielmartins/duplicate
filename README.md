@@ -1,5 +1,5 @@
 # duplicate
-A small PHP script to remove empty and duplicate files from a directory tree.
+A small PHP script to remove empty and duplicate files from a directory tree.<br />
 Example of use:
 php -f duplicate.php C:\PHOTOS
 Will erase all empty and duplicate photos and other files.
